@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote{
 }
 .cover{
 	padding: 7px 24px 32px 20px;
-	background-image: url(/images/cover.svg);
+	background-image: url(../images/cover.svg);
 	background-repeat: no-repeat;
 	background-size: 95% auto;
 	background-position: center right;
